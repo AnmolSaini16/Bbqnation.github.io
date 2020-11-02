@@ -311,7 +311,7 @@ font-family: sans-serif;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(footer.jpg);
+  background-image: linear-gradient(rgba(10,10,10,0.4), rgba(0,0,0,0.8)),url(table.jpg);
 }
 .eat .footer_msg{
   text-align: center;
@@ -1043,7 +1043,10 @@ font-weight: bolder;
     height: 550px;
   }
   .bbq_place .symbol2{
-    text-align: center;
+    margin-left: 185px;
+  }
+  .bbq_place .symbol3{
+    margin-left: 110px;
   }
   .bbq_place h2{
     font-size: 35px;
@@ -1061,12 +1064,12 @@ font-weight: bolder;
   }
   .bbq_place .b3{
     text-align: center;
-    margin-left: 95px;
+    margin-left: 120px;
     margin-bottom: 24px;
   }
   .bbq_place .barb_img1{
     height: 38vh;
-    margin-left: 0;
+    margin-left: 15px;
     padding-left: 30px;
     
   }
