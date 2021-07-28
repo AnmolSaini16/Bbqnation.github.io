@@ -1,1 +1,1 @@
-Barbeque nation website clone with table registration made using HTML, CSS, JavaScript.
+Barbeque nation website clone with table reservation made using HTML, CSS, JavaScript.
