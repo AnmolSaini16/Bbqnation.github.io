@@ -1,4 +1,5 @@
-Barbeque nation website clone with table reservation made using HTML, CSS, JavaScript.
+Full mobile responsive Barbeque nation website clone with table reservation made using HTML, CSS, JavaScript.
+****************************************************************************************
 ![Screenshot (47)](https://user-images.githubusercontent.com/72123368/130638026-e74ab4bf-783a-4b45-bb01-f15c9ca7c886.png)
 ![Screenshot (51)](https://user-images.githubusercontent.com/72123368/130638036-3b36c35c-56ef-4839-b0ee-f9fe83487ec0.png)
 ![Screenshot (52)](https://user-images.githubusercontent.com/72123368/130638044-c8746e42-cab8-4035-926b-8ba368543f23.png)
